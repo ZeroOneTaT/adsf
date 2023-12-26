@@ -1,0 +1,4 @@
+/home/user/adsf/CMakeFiles/edit_cache.dir
+/home/user/adsf/CMakeFiles/rebuild_cache.dir
+/home/user/adsf/source/CMakeFiles/edit_cache.dir
+/home/user/adsf/source/CMakeFiles/rebuild_cache.dir
